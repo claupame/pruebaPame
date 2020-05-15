@@ -4,7 +4,7 @@
      height: 100%;
      font-family:Verdana, Geneva, sans-serif;
      font-weight:bold;
-     background-color:#333;
+     background-color:#323;
  }
  header{
      position:relative;
@@ -23,7 +23,7 @@
  section{
      position:relative;
      float:left;
-     background-color:#777;
+     background-color:#AA7;
      width:78%;
      height:75%;
      color:#FFF;
